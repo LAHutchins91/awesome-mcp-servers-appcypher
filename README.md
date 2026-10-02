@@ -475,6 +475,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Art and literature services.
 
+- [Continuity](https://github.com/LAHutchins91/continuity-mcp) - Private story bible for fiction writers. Manage characters, relationships, world rules, timelines, and approved scenes over MCP (`https://continuitywriter.com/mcp`, OAuth 2.1). Works with ChatGPT, Claude, Gemini, Grok, Cursor. [Site](https://continuitywriter.com) · [Connect](https://continuitywriter.com/connect).
+
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
 
 <br />
